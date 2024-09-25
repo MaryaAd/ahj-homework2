@@ -1,6 +1,6 @@
 ![CI](https://github.com/MaryaAd/ahj-homework2/actions/workflows/web.yml/badge.svg)
 
-
+https://maryaad.github.io/ahj-homework2/
 
 
 # Домашнее задание к занятию "2. DOM"
